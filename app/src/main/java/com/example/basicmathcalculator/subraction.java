@@ -24,7 +24,7 @@ public class subraction extends AppCompatActivity implements View.OnClickListene
     }
 
     public void onClick(View v){
-        Toast.makeText(this, "Adding numbers...", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Subtracting numbers...", Toast.LENGTH_SHORT).show();
         ComputeResult();
     }
 

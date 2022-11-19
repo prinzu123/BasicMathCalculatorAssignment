@@ -24,7 +24,7 @@ public class multiply  extends AppCompatActivity implements View.OnClickListener
     }
 
     public void onClick(View v){
-        Toast.makeText(this, "Adding numbers...", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Multiplying numbers...", Toast.LENGTH_SHORT).show();
         ComputeResult();
     }
 
